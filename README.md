@@ -2,5 +2,8 @@
 
 ## Image dataset
 
-1. The CIFAR-10 dataset
+1. The CIFAR-10 dataset from [source](https://www.cs.toronto.edu/~kriz/cifar.html) or [download](https://s3.amazonaws.com/fast-ai-imageclas/cifar10.tgz)
+  
+  ![Image](images/CIFAR-10.jpeg)
+
 2. The Mtorcycle dataset
