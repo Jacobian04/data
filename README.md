@@ -6,4 +6,4 @@
   
   ![Image](images/CIFAR-10.jpeg)
 
-2. The Mtorcycle dataset
+2. The Motorcycle dataset 
